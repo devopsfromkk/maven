@@ -189,6 +189,8 @@ wget https://dlcdn.apache.org/maven/maven-3/3.9.10/binaries/apache-maven-3.9.10-
  
 wget https://dlcdn.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.zip
 
+wget https://dlcdn.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.zip
+
 
 unzip apache-maven-3.9.11-bin.zip
 
@@ -205,6 +207,6 @@ export PATH=$PATH:$M2_HOME/bin
 
 mvn -version or mvn -v ----> Not installed , you need to load 
 
-source ~/.bash_profile
+t
 
 mvn -version or mvn -v 
